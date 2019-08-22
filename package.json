@@ -1,0 +1,20 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "description": "Html to Pdf utility using Puppeteer Headless Browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "puppeteer"
+  ],
+  "author": "Lancy Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "puppeteer": "^1.11.0"
+  }
+}
