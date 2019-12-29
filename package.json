@@ -14,7 +14,7 @@
   "author": "Lancy Goyal",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.3.0",
     "puppeteer": "^1.11.0"
   }
 }
